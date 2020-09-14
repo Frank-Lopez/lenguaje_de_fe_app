@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>530353082489-gtfncgm9hqeglvtijhoarjpauktf0mpp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.530353082489-gtfncgm9hqeglvtijhoarjpauktf0mpp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC1YcIRuRP_O9_kedfA4kOT41mYNxnOnAA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>530353082489</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.lenguajedefeapp</string>
+	<key>PROJECT_ID</key>
+	<string>lenguaje-de-fe</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lenguaje-de-fe.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:530353082489:ios:026afc4506c787974f44a8</string>
+	<key>DATABASE_URL</key>
+	<string>https://lenguaje-de-fe.firebaseio.com</string>
+</dict>
+</plist>
